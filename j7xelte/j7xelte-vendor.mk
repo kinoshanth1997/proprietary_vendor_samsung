@@ -66,8 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so:system/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so \
     vendor/samsung/j7xelte/proprietary/lib/libarac.so:system/lib/libarac.so \
     vendor/samsung/j7xelte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j7xelte/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
-    vendor/samsung/j7xelte/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
     vendor/samsung/j7xelte/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/j7xelte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/j7xelte/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
