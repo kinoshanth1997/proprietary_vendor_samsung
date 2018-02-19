@@ -39,8 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/j7xelte/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/j7xelte/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \    
-	vendor/samsung/j7xelte/proprietary/bin/gpsd:system/bin/gpsd \
-	vendor/samsung/j7xelte/proprietary/bin/prepare_param.sh:system/bin/prepare_param.sh \
+    vendor/samsung/j7xelte/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/j7xelte/proprietary/bin/prepare_param.sh:system/bin/prepare_param.sh \
     vendor/samsung/j7xelte/proprietary/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
     vendor/samsung/j7xelte/proprietary/etc/ca.pem:system/etc/ca.pem \
     vendor/samsung/j7xelte/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
